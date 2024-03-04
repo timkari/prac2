@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">практика2</string>
+    <string name="version">ваша версия %d</string>
+
+</resources>

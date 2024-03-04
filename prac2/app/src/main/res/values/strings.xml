@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">prac2</string>
+    <string name="version">your version is %d</string>
 </resources>
